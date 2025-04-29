@@ -1,0 +1,25 @@
+* {
+  margin: 1rem;
+  padding: 0 2rem;
+  box-sizing: border-box;
+}
+
+h1,
+p {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  color: maroon;
+  text-align: center;
+  font-weight: 900;
+}
+
+article {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+table {
+  border: 1px solid black;
+}
